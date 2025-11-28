@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.test {
+    border: 2px solid black;
+    padding: 20px 50px;
+}

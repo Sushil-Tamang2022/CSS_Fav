@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 0 0 50px;
+}
+
+#first {
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+
+#second {
+    border: 2px solid red;
+    margin: 10px 200px 10px 300px;
+}
+
+#third {
+    width: 500px;
+    border: 2px solid green;
+    margin: 10px auto;
+}
